@@ -16,7 +16,7 @@ An enemy NPC cube moves around to challenge the player, adding competitive and u
 - **C++** – Core game logic and mechanics.
 - **[TL-Engine]** 
 
-Template
+
 
 👨‍💻 Author
 
